@@ -1,10 +1,7 @@
 def roll_call_dwarves(arr)# code an argument here
   # Your code here
   counter = 1
-  for x in arr 
-    tempSentence = " "
-    puts x 
-  end 
+  count = 0
 end
 
 def summon_captain_planet# code an argument here
