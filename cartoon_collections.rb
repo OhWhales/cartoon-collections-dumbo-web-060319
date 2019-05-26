@@ -42,4 +42,5 @@ def find_the_cheese(arr)# code an argument here
       end 
       innerCount = innerCount + 1 
     end 
+    counter = counter + 1
 end
