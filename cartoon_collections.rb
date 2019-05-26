@@ -2,7 +2,7 @@ def roll_call_dwarves(arr)# code an argument here
   # Your code here
   counter = 1
   count = 0
-  while (count < arr)
+  while (count < arr.size)
     x=counter.to_s
     puts "#{x}. #{arr[count]}"
     counter = counter + 1
