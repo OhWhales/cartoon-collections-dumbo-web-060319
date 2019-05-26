@@ -24,6 +24,7 @@ def long_planeteer_calls)arr_# code an argument here
   for x in arr 
     if x.length > 4
       bool=true 
+    end 
 end
 
 def find_the_cheese# code an argument here
