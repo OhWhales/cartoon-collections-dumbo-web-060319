@@ -18,8 +18,9 @@ def summon_captain_planet(arr)# code an argument here
   end
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls)arr_# code an argument here
   # Your code here
+  bool = false 
 end
 
 def find_the_cheese# code an argument here
