@@ -2,6 +2,8 @@ def roll_call_dwarves(arr)# code an argument here
   # Your code here
   counter = 1
   count = 0
+  while (count < arr)
+  count= count + 1
 end
 
 def summon_captain_planet# code an argument here
