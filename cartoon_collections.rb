@@ -33,4 +33,13 @@ def find_the_cheese(arr)# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   
+  counter = 0 
+  while (counter < arr.size)
+    innerCount=0 
+    while (innerCount < cheese_types.size)
+      if cheese_types[innerCount] == arr[counter]
+        return cheese_types[innerCount]
+      end 
+      innerCount = innerCount + 1 
+    end 
 end
