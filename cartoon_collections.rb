@@ -3,10 +3,10 @@ def roll_call_dwarves(arr)# code an argument here
   counter = 1
   count = 0
   while (count < arr)
-  puts "#{counter}. #{arr[count]}"
-  counter = counter + 1
-  count= count + 1
-end
+    puts "#{counter}. #{arr[count]}"
+    counter = counter + 1
+    count= count + 1
+  end
 end
 
 def summon_captain_planet# code an argument here
