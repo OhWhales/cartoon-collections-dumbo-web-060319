@@ -1,6 +1,7 @@
 def roll_call_dwarves(arr)# code an argument here
   # Your code here
   for x in arr 
+    tempSentence = " "
     puts x 
   end 
 end
