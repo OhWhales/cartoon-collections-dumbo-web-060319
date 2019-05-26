@@ -18,7 +18,7 @@ def summon_captain_planet(arr)# code an argument here
   end
 end
 
-def long_planeteer_calls)arr_# code an argument here
+def long_planeteer_calls(arr)# code an argument here
   # Your code here
   bool = false 
   for x in arr 
